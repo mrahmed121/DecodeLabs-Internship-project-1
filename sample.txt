@@ -1,0 +1,12 @@
+Hello World! This is a test text file.
+=====================================
+
+Welcome to UniversalFileReader testing.
+
+Features tested:
+- Plain text extraction
+- Multi-line support
+- Special characters: @#$%^&*()
+- Numbers: 1234567890
+
+End of test file.

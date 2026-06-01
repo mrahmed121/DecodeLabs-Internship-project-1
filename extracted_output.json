@@ -1,0 +1,19 @@
+{
+  "success": true,
+  "file_path": "C:\\Users\\muham\\Downloads\\sample.pdf",
+  "file_type": "PDF",
+  "metadata": {
+    "file_name": "sample.pdf",
+    "absolute_path": "C:\\Users\\muham\\Downloads\\sample.pdf",
+    "file_size_bytes": 2540,
+    "file_size_human": "2.48 KB",
+    "extension": ".pdf",
+    "created": "2026-06-01T10:06:51.212608",
+    "modified": "2026-06-01T10:06:51.304133",
+    "accessed": "2026-06-01T10:06:51.664691"
+  },
+  "text": "\n--- PAGE 1 ---\nPDF Test Document - Page 1\nThis is a test PDF created for UniversalFileReader.\nFeatures: Text extraction, embedded image OCR, metadata.\nLine 1: The quick brown fox jumps over the lazy dog.\nLine 2: 1234567890 - Special chars: @#$%^&*()\n\n\n--- PAGE 2 ---\nPDF Test Document - Page 2\nSecond page content for multi-page testing.\nEnd of PDF test document.\n",
+  "data": null,
+  "embedded_image_ocr": [],
+  "error": null
+}
